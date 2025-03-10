@@ -14,6 +14,7 @@
     <owl:Ontology rdf:about="http://www.ewi.org/ontology">
         <owl:versionIRI rdf:resource="http://www.ewi.org/ontology"/>
         <owl:imports rdf:resource="https://raw.githubusercontent.com/BuffaloMfgWorks/AM-CDM-Ontology-Map/main/Imports/EWIManufacturing.owl"/>
+        <owl:imports rdf:resource="https://raw.githubusercontent.com/CommonCoreOntology/CommonCoreOntologies/refs/heads/develop/documentation/archive/previous-versions/MergedAllCoreOntology-v1.5-2024-02-14.ttl"/>
     </owl:Ontology>
     
 
